@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+	#container {
+		background: yellow;
+		height: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	#item {
+		border: 1px solid #cccccc;
+		width: 130px;
+		float: left;
+	}
+	#inner-container {
+		border: 1px solid #000000;
+		padding: 5px;
+	}
